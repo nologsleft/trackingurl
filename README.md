@@ -43,3 +43,11 @@ This project is a proof-of-concept browser-based fingerprinting and data collect
    ```bash
    git clone https://github.com/nologsleft/
   
+## ⚠️ Disclaimer
+
+This project is intended **strictly for educational and ethical research purposes only**.
+
+Do not use any part of this code to deceive users, exfiltrate data, or violate privacy laws (e.g., GDPR, CCPA, Indian IT Act). Webcam/microphone access, geolocation, and data transmission to third parties are **disabled** in this public version.
+
+If you use this code for unethical or malicious purposes, **you are solely responsible** for any legal consequences.
+
